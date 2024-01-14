@@ -1,11 +1,11 @@
 import './App.css'
-import Articles from './pages/Articles'
+import About from './pages/About'
 
 function App() {
 
   return (
     <>
-      <Articles />
+      <About />
     </>
   )
 }
