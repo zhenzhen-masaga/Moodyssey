@@ -12,7 +12,7 @@
 
 ## 🧪 Testing
 
-We use [BrowserStack](https://www.browserstack.com/) for cross-browser and cross-device testing to ensure Moodyssey performs consistently on different platforms.
+This project is tested with BrowserStack.
 
 
 ## 🤝 Contributing
